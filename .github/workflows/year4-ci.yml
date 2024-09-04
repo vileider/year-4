@@ -1,0 +1,20 @@
+name: year4 CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Push to Bitbucket
+        env:
+          BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
+          BITBUCKET_APP_PASSWORD: ${{ secrets.BITBUCKET_APP_PASSWORD }}
+        run: |
+          git remote add bitbucket https://$BITBUCKET_USERNAME:$BITBUCKET_APP_PASSWORD@bitbucket.org/vileider/year-4.git
+          git push bitbucket --all --force
