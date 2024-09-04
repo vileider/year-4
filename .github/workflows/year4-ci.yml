@@ -16,5 +16,5 @@ jobs:
           BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
           BITBUCKET_APP_PASSWORD: ${{ secrets.BITBUCKET_APP_PASSWORD }}
         run: |
-          git clone git@bitbucket.org:vileider/year-4.git
+          git clone git@bitbucket.org:${{ env.BITBUCKET_USERNAME }}:${{ env.BITBUCKET_APP_PASSWORD }}@bitbucket.org/vileider/year-4.git
           git push bitbucket --all --force
