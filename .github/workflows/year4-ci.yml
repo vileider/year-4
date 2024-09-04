@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
       - name: Debug and Push to Bitbucket
         env:
-          BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_APP_PASSWORD }}
+          BITBUCKET_APP_PASSWORD: ${{ secrets.BITBUCKET_APP_PASSWORD }}
         run: |
 
           git config --global user.email "2ukwhwxe4cpbhshnh1d9uonwczmc8n@bots.bitbucket.org"
