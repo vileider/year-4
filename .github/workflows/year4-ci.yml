@@ -11,11 +11,14 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Push to Bitbucket
+      - name: Debug and Push to Bitbucket
         env:
           BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
         run: |
+          echo "Token length: ${#BITBUCKET_TOKEN}"
+          echo "First 10 characters of token: ${BITBUCKET_TOKEN:0:10}..."
           git config --global user.email "2ukwhwxe4cpbhshnh1d9uonwczmc8n@bots.bitbucket.org"
           git config --global user.name "Bitbucket Bot"
           git remote add bitbucket https://x-token-auth:${BITBUCKET_TOKEN}@bitbucket.org/vileider/year-4.git
+          git remote -v
           git push bitbucket --all --force
