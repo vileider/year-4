@@ -15,10 +15,10 @@ jobs:
         env:
           BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_APP_PASSWORD }}
         run: |
-          echo "Token length: ${#BITBUCKET_APP_PASSWORD}"
-          echo "First 10 characters of token: ${BITBUCKET_APP_PASSWORD:0:10}..."
+          echo "Token length: ${{ BITBUCKET_APP_PASSWORD }}"
+          echo "First 10 characters of token: ${{ BITBUCKET_APP_PASSWORD:0:10 }}..."
           git config --global user.email "2ukwhwxe4cpbhshnh1d9uonwczmc8n@bots.bitbucket.org"
           git config --global user.name "Bitbucket Bot"
-          git remote add bitbucket https://x-token-auth:${BITBUCKET_APP_PASSWORD}@bitbucket.org/vileider/year-4.git
+          git remote add bitbucket https://x-token-auth:${{ BITBUCKET_APP_PASSWORD }}@bitbucket.org/vileider/year-4.git
           git remote -v
           git push bitbucket --all --force
