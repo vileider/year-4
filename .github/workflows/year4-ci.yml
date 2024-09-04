@@ -16,5 +16,5 @@ jobs:
           BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
           BITBUCKET_APP_PASSWORD: ${{ secrets.BITBUCKET_APP_PASSWORD }}
         run: |
-          git clone https://bitbucket.org/${{ secrets.BITBUCKET_USERNAME }}/year-4/src/main/
+          git clone https://bitbucket.org/${{ secrets.BITBUCKET_USERNAME }}/year-4.git
           git push bitbucket --all --force
