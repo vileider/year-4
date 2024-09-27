@@ -61,10 +61,22 @@ as this demographic frequently aligns with both Action and RPG genres across dif
 Farming and tycoon games attract players with their calm gameplay, personalization options,
 and clear goals. People like these games because they are easy to play,
 offer creative freedom, and often have interesting stories.
-The mix of realistic tasks and fun twists, plus the option to play with friends,
-makes them popular with many different types of gamers.
-
+The extra credit from the player could be gained by adding multiplayer.
+Option to play with friends, makes games more popular.
+# https://www.econmarketresearch.com/industry-report/farming-game-market/
+"The global farming game market was valued at USD 378.41 Million in 2023 and is estimated to reach approximately USD 982.43 Million by 2032"
+# https://www.gamedeveloper.com/design/how-to-make-low-poly-look-good
+While specific data on just low poly games is limited, the overall indie game market, which includes many low poly games, was valued at approximately USD 1.5 billion in 2023 and is expected to grow.
 # done -Determine the market size for farming simulation and tycoon games
+
+# https://www.pcgamer.com/farming-simulator-22-review/
+Players enjoy diverse farming tasks such as planting, harvesting, and animal care. The more detailed and varied these activities, the better
+# https://gamerant.com/best-coop-farming-simulation-games/
+Farming RPGs offer players a relaxing escape into a simpler virtual life where they can cultivate crops, build relationships, and progress at their own pace. These games combine satisfying resource management, character customization, and social interactions to create an addictive loop of achievement that appeals to a wide range of players.
+# https://learnexus.com/blog/creating-engaging-rpg-storylines/
+Character progression, quests, and storylines can enhance engagement. Players appreciate a balance between farming and RPG elements.
+Popular farming/rpg games like “Stardew Valley” and “Harvest Moon.” have set a standard for what players enjoy, including diverse farming tasks such as planting, harvesting, and animal care.
+
 Identify player preferences in this genre
 Assess the competition and market saturation
 Evaluate potential revenue and profitability
