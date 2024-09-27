@@ -6,3 +6,5 @@ evidence of learning process at 4th year
 
 # to unstage last commit
 ```git reset --soft HEAD~'```
+
+
