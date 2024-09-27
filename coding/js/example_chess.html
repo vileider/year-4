@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example Chess Board</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Example Chess Board</h1>
+    <table id="chess-board">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Origin</th>
+                <th>Type</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>King</td>
+                <td>England</td>
+                <td>Piece</td>
+                <td>3.99</td>
+            </tr>
+            <tr>
+                <td>Queen</td>
+                <td>Netherlands</td>
+                <td>Piece</td>
+                <td>4.99</td>
+            </tr>
+            <tr>
+                <td>Rook</td>
+                <td>Greece</td>
+                <td>Piece</td>
+                <td>5.99</td>
+            </tr>
+            <tr>
+                <td>Bishop</td>
+                <td>France</td>
+                <td>Piece</td>
+                <td>7.99</td>
+            </tr>
+        </tbody>
+    </table>
+    <script>
+        var chessBoard = document.getElementById("chess-board");
+        var rows = chessBoard.rows;
+        for (var i = 1; i < rows.length; i++) {
+            rows[i].addEventListener("click", function() {
+                alert("You clicked on " + this.cells[0].innerHTML);
+            });
+        }
+    </script>
+</body>
+</html>
+
