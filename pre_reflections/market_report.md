@@ -42,7 +42,7 @@ Various templates are available to assist in market research efforts, including 
 
 # ###############
 I will start with settign clear objectives.
-My objective is to create a farming tycoon in c# with the usage of unity engine
+My objective is to create a rpg farming tycoon in c# with the usage of unity engine
 # https://www.econmarketresearch.com/industry-report/farming-game-market/
 # https://www.statista.com/outlook/amo/app/games/simulation-games/worldwide#revenue
 I treat my game as a simulator with rpg ascepcts. 
@@ -67,7 +67,7 @@ Option to play with friends, makes games more popular.
 "The global farming game market was valued at USD 378.41 Million in 2023 and is estimated to reach approximately USD 982.43 Million by 2032"
 # https://www.gamedeveloper.com/design/how-to-make-low-poly-look-good
 While specific data on just low poly games is limited, the overall indie game market, which includes many low poly games, was valued at approximately USD 1.5 billion in 2023 and is expected to grow.
-# done -Determine the market size for farming simulation and tycoon games
+
 
 # https://www.pcgamer.com/farming-simulator-22-review/
 Players enjoy diverse farming tasks such as planting, harvesting, and animal care. The more detailed and varied these activities, the better
@@ -76,19 +76,25 @@ Farming RPGs offer players a relaxing escape into a simpler virtual life where t
 # https://learnexus.com/blog/creating-engaging-rpg-storylines/
 Character progression, quests, and storylines can enhance engagement. Players appreciate a balance between farming and RPG elements.
 Popular farming/rpg games like “Stardew Valley” and “Harvest Moon.” have set a standard for what players enjoy, including diverse farming tasks such as planting, harvesting, and animal care.
+# https://smallbiztrends.com/farming-games/
+# https://www.gamingbible.com/news/platform/pc/stardew-valley-meets-animal-crossing-in-free-game-617756-20240325
+The market for RPG farming tycoons has competitors but is not entirely oversaturated, especially when it comes to combining deep tycoon mechanics with RPG elements. To stand out, Our team  should focus on innovative gameplay by deepening the tycoon aspects (e.g., market management, production chains) and offering new settings (e.g., futuristic or magical worlds). We can consider implementing unique multiplayer modes with competitive or cooperative farming tycoon gameplay in next game itteration. By blending these elements we will be able to carve out a niche within a semi-popular but still evolving market.
 
-Identify player preferences in this genre
-Assess the competition and market saturation
-Evaluate potential revenue and profitability
-
-
-Identify the target audience:
-
-Age range of typical players (e.g., 18-35)
-Gender distribution
-Gaming habits (casual vs. hardcore)
-Interests (farming, management, RPG elements)
-
+# https://steam-revenue-calculator.com/app/413150/stardew-valley
+Given the rising interest in farming RPGs and our game’s potential to fill market gaps, the project is poised to be profitable, assuming it can capture even a modest player base of 100,000 to 500,000 players.
+If our game achieves breakout success, as some farming sims have, lifetime profits could exceed $10 million after expansions and DLC, given the genre’s long tail of revenue. Focusing on key differentiators like deeper tycoon mechanics and multiplayer features can increase its appeal and revenue potential.
+### target audience:
+# https://www.gamingbible.com/features/stardew-valley-step-aside-375062-20240808
+The target audience for a farming tycoon RPG game is typically 18-35 years old, with a fairly balanced gender distribution, though casual farming games tend to attract slightly more female players. The audience ranges from casual to mid-core gamers, who enjoy relaxing yet engaging gameplay with RPG elements and light management systems. Interests include farming, economic simulation, and RPG-style progression with quests and customization options. These players seek a blend of strategic depth and cozy, low-pressure environments, ideal for a game that combines both farming and business simulation
+# done -Determine the market size for farming simulation and tycoon games
+# - done Identify player preferences in this genre
+# - done Assess the competition and market saturation
+# - Evaluate potential revenue and profitability
+# - Identify the target audience:
+# Age range of typical players (e.g., 18-35)
+# Gender distribution
+# Gaming habits (casual vs. hardcore)
+# Interests (farming, management, RPG elements)
 
 Choose appropriate research methods:
 
