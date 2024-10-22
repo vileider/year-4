@@ -84,12 +84,30 @@ I will use that package because it simplifies player tracking. It allows adding 
 I managed to create a component that will add Cinemabench camera to any entity.
 I attend to the guest lecture and made some notes about it.
 ### 9.10.2024
-I had a daily stand-up with the team. Some team members did not appear, so I used a framework with FACTS, REACTION, CONSEQUENCES, EXPECTATIONS to prevent people from being late in the future.
+I had a daily stand-up with the team.
+Some team members did not appear, so I used a framework with FACTS,
+REACTION, CONSEQUENCES, EXPECTATIONS to prevent people from being late in the future.
 I kept thinking about how to upgrade CinemaMachine - one of Unity's packages.
 I was struggling to make sure the camera was looking at the player in the way I intended.
-I was wondering whether the camera should follow the player, and whether pressing the bottom key, like "S" or the down arrow, should always move the player towards the bottom of the screen or if the player should move freely.
-I learned that the camera is somehow connected to the player's movement in games.
-The way the camera moves adds character to the game, so I need to approach this task carefully.
+I was wondering whether the camera should follow the player, and whether pressing the bottom key,
+like "S" or the down arrow, should always move the player towards the bottom of the screen or
+if the player should move freely. I learned that the camera is somehow connected to the player's
+movement in games. The way the camera moves adds character to the game,
+so I need to approach this task carefully.
 ### 10.10.2024
-Today, I was gathering documents and filling out all the forms that were expected to get the Computing Technician internship position.
-I also informed the team that due to high velocity we should create more taks at the next sprint. Also I am thinking if we shoudl not organize the planning meeting earlier because we finished all the tasks before the deadline.
+Today, I was gathering documents and filling out all the forms that were expected
+to get the Computing Technician internship position. I also informed the team that due to high velocity,
+we should create more tasks at the next sprint. Also, I am thinking if we should not organize
+the planning meeting earlier because we finished all the tasks before the deadline.
+I took part in an LO session and students have been informed we should focus on creating
+interesting software instead of writing reflections about it.
+### 21.10.2024
+I started the day with a daily meeting with my team.
+They had concerns about how we should create tests.
+It was my task to create and organize tests.
+I explained to everyone how to do it and we recorded it.
+### 22.10.2024
+I started the day with an asynchronous meeting.
+I helped one of the team members to understand square roots.
+I had a meeting with all students. I presented what we have done since.
+I learned that the mural that our team has been using is already GDPR ready.
