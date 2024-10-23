@@ -111,3 +111,6 @@ I started the day with an asynchronous meeting.
 I helped one of the team members to understand square roots.
 I had a meeting with all students. I presented what we have done since.
 I learned that the mural that our team has been using is already GDPR ready.
+### 23.10.2024
+I added lated asynchronous stand up to team channel. 
+I check PR and flagged less descriptive method names or nested loops.
