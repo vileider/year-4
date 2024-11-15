@@ -114,3 +114,36 @@ I learned that the mural that our team has been using is already GDPR ready.
 ### 23.10.2024
 I added lated asynchronous stand up to team channel. 
 I check PR and flagged less descriptive method names or nested loops.
+### 24.10.2024
+I spent a day in hospital
+### 25.10.2024
+I attend to Daily meeting with my team.
+
+We are talking aboiut the trends
+about pattern.
+My question is, If I am aiming in to innowation and  something that gonn be viral, some:
+- I need to look for a focus group
+- user and tasks analyzis
+- EXPECTATIONS
+- a task in a game
+- a new innvoate camera and look for feedback
+- do the same with standard camera and look for feedback.
+### 26.10.2024 - 6.11.2024
+due to time spent in hospital and birth of my son I did not 
+fully focus on school
+### 7.11.2024
+our team started retrospecitve and arranged a mmeting for next day due to a complexity
+of tasks
+### 8.11.2024
+Me and gracjan created class and sequence diagram. 
+On the second meeting we defined task breakout.
+### 11.11.2024
+I organized design and planning we were creating a class diagram to design world generating system in scalable, loos couple and robust way.
+I was checking PR whole day and I was improving design.
+### 12.11.2024 - 13.11.2024
+I was at work
+### 14.11.2024
+I tried to catch up with the team progress
+I solve the issues related to design. I reviewed couple PR's.
+I had a couple meeting with team member helping the understand codig issues.
+### 15.11.2024
