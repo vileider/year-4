@@ -147,3 +147,7 @@ I tried to catch up with the team progress
 I solve the issues related to design. I reviewed couple PR's.
 I had a couple meeting with team member helping the understand codig issues.
 ### 15.11.2024
+After a standup, I organized two pair programming session to create interfaces and create a class that will combine
+Generating world component in aloose copuling way.
+### 18.11.2024
+After a standup, I polished my ticket and sent to review.
