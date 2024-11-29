@@ -151,3 +151,30 @@ After a standup, I organized two pair programming session to create interfaces a
 Generating world component in aloose copuling way.
 ### 18.11.2024
 After a standup, I polished my ticket and sent to review.
+I discussed tickets on the scrum board and me and Gracjan Refined it.
+### 21.11.2024
+I started a day from standup with my team.
+I arranged a restrospecive where team members speak up obout last sprint.
+We started design and left that least for 4 hours, but we didi not finished.
+### 22.11.2024
+I focused on working on design by combining UI, world generator and entity together on mural.
+### 25.11.2024
+I finished design and planning with the team members. Afternoon I invited my friemd who is a senior developer to team meeting.
+He explained that some desiging solution are better than others.
+### 26.11.2024
+Tuesday was quite disastrous, starting from the sprint review,
+where I wasn't prepared enough and my performance during the meeting wasn't clear to the audience. 
+Later, I discovered that in the middle of the sprint, my team deleted some part of the design
+and erased tickets on the scrum board and created new ones. 
+I had a long conversation with Gracja that it was not the right way of doing it.
+### 27.11.2024
+Wednesday I was at work but I attended the daily meeting and recorded a message to the team, 
+highlighting the need for professionalism, attendance, accountability, and communication. 
+I explained to them that without these, running a team does not make sense to me, 
+and I prepared a code of conduct which should have been done at the beginning of the project. 
+However, I don't think it would have resonated as well if it had been created then, as now all project participants must sign it at once.
+### 28.11.2024
+Thursday I started designing UI from the beginning with Gracjan. 
+We changed the pattern into a more game dev fitting one - creational prototype. 
+During the day we learned how to implement the new UI framework, #
+and at night time we finished emergency planning and populated the scrum board with ACs.
