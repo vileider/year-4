@@ -178,3 +178,15 @@ Thursday I started designing UI from the beginning with Gracjan.
 We changed the pattern into a more game dev fitting one - creational prototype. 
 During the day we learned how to implement the new UI framework, #
 and at night time we finished emergency planning and populated the scrum board with ACs.
+### 29.11.2024
+after standup We finished design an create epics and user stories. I took the ticket for creating scenes controler.
+### 2.12.2024
+after daily I was struggling to create scene conroler so I  asked gracja if he can help me.
+During the voice call he explained that there is already a scene switcher nested in the code that block my code form 
+doing the same thing. Afternoon I prepared a script for next day sprint review session.
+### 3.12.2024
+I was a t work but i managed to get into the call and attenf to sprint review session.
+### 4.12.2024
+I was at work
+### 5.12.2024
+I was finishing organising meetings with the youtuber.
