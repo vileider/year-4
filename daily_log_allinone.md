@@ -190,3 +190,20 @@ I was a t work but i managed to get into the call and attenf to sprint review se
 I was at work
 ### 5.12.2024
 I was finishing organising meetings with the youtuber.
+### 6.12.2024
+I created a unit test and sent as a PR
+### 9.12.2024
+I started day from responding to request on my PR and adding commitments
+### 27.12.2024
+After the async daily, I met with Gracjan, and we worked on fixing the ticket related to custom scripts.
+I also posted a message in the General channel to all participants, suggesting that we should have two teams and work
+in pair programming from now on to finish the small demo before the competition’s due date.
+We started another ticket that involves creating the menu and settings as outlined in the Figma design.
+### 28.12.2025 - 29.12.2025
+work at UHI
+### 30.12.2025
+Today, I was updating the UI to match the Figma design.
+Later, I caught up with Gracjan and started pair programming so he could help me understand custom components, prefabs, and custom scripts.
+After that, we had a sprint review meeting, during which Charles
+taught me that we should implement a UI wireframe design to help other project participants understand how the UI will function.
+I used Figma for most of my tasks and discovered that it also allows us to create UI wireframe designs for existing projects.
