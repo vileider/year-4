@@ -207,3 +207,5 @@ Later, I caught up with Gracjan and started pair programming so he could help me
 After that, we had a sprint review meeting, during which Charles
 taught me that we should implement a UI wireframe design to help other project participants understand how the UI will function.
 I used Figma for most of my tasks and discovered that it also allows us to create UI wireframe designs for existing projects.
+### 07.02.2025
+At the beginning of the day, I was focused on the UI, experimenting with scripts and prefabs to find the most efficient way to build it. I got stuck for a bit while trying to create an outline around an image. Later, I had a 4th-year LO session, and after that, I had a meeting with Marta where we discussed different advanced algorithms and how our team is using them. We also talked about debugging the world generator because, on Marta’s computer, the world was taking a very long time to generate. I proposed using a selective debug log method to address the issue.
