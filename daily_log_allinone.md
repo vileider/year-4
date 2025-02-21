@@ -209,3 +209,21 @@ taught me that we should implement a UI wireframe design to help other project p
 I used Figma for most of my tasks and discovered that it also allows us to create UI wireframe designs for existing projects.
 ### 07.02.2025
 At the beginning of the day, I was focused on the UI, experimenting with scripts and prefabs to find the most efficient way to build it. I got stuck for a bit while trying to create an outline around an image. Later, I had a 4th-year LO session, and after that, I had a meeting with Marta where we discussed different advanced algorithms and how our team is using them. We also talked about debugging the world generator because, on Marta’s computer, the world was taking a very long time to generate. I proposed using a selective debug log method to address the issue.
+### 10.02.2025
+Today, I focused on enhancing the Unity project by deepening my understanding of the Unity UI system.
+I successfully integrated prefabs and scripts, which allowed me to create a fully resizable main menu adaptable to any resolution.
+Additionally, I implemented a feature to modify the title and button fonts through a single script—this approach will also be used for future language changes.
+I also had a productive pair programming session with Gracja, during which we established foundational principles for treating items as entities with components.
+Due to work commitments over the next two days, I plan to address further tasks after work in preparation for Thursday's sprint review.
+### 13.02.2025
+I was working on the UI and almost finished my task. I had to do some research on how to attach scripts to buttons. At one point, I accidentally deleted the EventSystem, which caused the actions to stop working properly.
+In the afternoon, I attended the sprint review, where I learned about a new concept called parallel programming. This approach utilizes multiple cores to handle different tasks simultaneously.
+### 17.02.2025
+- working under new game button
+### 18.02.2025
+- setting up a server with usage of docker
+### 20.02.2025
+- pushing pr to dev, checkign other pr
+- attend to mid sprint meeting
+### 21.02.2025
+- LO session
