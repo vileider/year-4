@@ -227,3 +227,11 @@ In the afternoon, I attended the sprint review, where I learned about a new conc
 - attend to mid sprint meeting
 ### 21.02.2025
 - LO session
+### 24.02.2025
+Scattered Lands project team had a retrospective, and planning and designing session.
+It was very long and exhausting, but we managed to create a definition of done and estimate the
+game demo for 6 weeks (3 sprints).
+### 25.02.2025
+Today, I finished a business competition question form online, and I also added a localization system to unity game.
+Additionally, I worked on another project called "update flow", which will help Jira users.
+Furthermore, I created initial propositions for the GameDev class inform of word document, which I will use at work.
