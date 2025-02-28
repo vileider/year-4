@@ -235,3 +235,5 @@ game demo for 6 weeks (3 sprints).
 Today, I finished a business competition question form online, and I also added a localization system to unity game.
 Additionally, I worked on another project called "update flow", which will help Jira users.
 Furthermore, I created initial propositions for the GameDev class inform of word document, which I will use at work.
+### 26.02.2025
+I focused on preparing for sprint review presentation and I pushed the work under settings-screen forward.
