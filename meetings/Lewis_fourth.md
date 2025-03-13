@@ -1,0 +1,1 @@
+- i shoudl add actual name of the project participat if ther is a nick name

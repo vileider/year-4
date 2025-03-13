@@ -236,4 +236,23 @@ Today, I finished a business competition question form online, and I also added 
 Additionally, I worked on another project called "update flow", which will help Jira users.
 Furthermore, I created initial propositions for the GameDev class inform of word document, which I will use at work.
 ### 26.02.2025
-I focused on preparing for sprint review presentation and I pushed the work under settings-screen forward.
+I focused on preparing for the sprint review presentation and pushed the work on the settings screen forward.
+### 27.02.2025
+Preparing for the sprint review and worked on the UI, also preparing for the LO session.
+### 28.02.2025
+I managed to change languages in the menu.
+### 3.03.2025
+I worked on a slider to change the language.
+### 4.03.2025
+I pushed the Changing Language ticket to PR.
+### 6.03.2025
+I checked the PR, prepared for the sprint review, and for the LO session on Friday.
+### 7.03.2025
+I had an LO session and started a new ticket.
+### 10.03.2025
+I was working on Unity prefabs and coded entities. I came to the conclusion that we should use Unity's tools to simplify everything.
+Gracjan and I figured out that the ground needs to be more of a physical object to allow other objects to collide with it.
+### 11.03.2025
+I was improving the inventory UI with Gracjan, and we discussed how it should be implemented.
+### 13.03.2025
+I checked PR and I fixed and moved my tasks to done. I prepared a presentation for the sprint review.
