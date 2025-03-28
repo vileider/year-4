@@ -256,3 +256,12 @@ Gracjan and I figured out that the ground needs to be more of a physical object 
 I was improving the inventory UI with Gracjan, and we discussed how it should be implemented.
 ### 13.03.2025
 I checked PR and I fixed and moved my tasks to done. I prepared a presentation for the sprint review.
+### 24.03.2025
+I picked up a ticket to trigger the trader window once the player enters the trader's radius in the game HUD. However, when I started creating the collision sphere, the player began walking on the sphere instead of walking into it.
+I believe this happened because the current player script handles collisions differently from other world objects. So, I decided to also take the player refinement ticket.
+### 25.03.2025
+I focused on preparing for the business competition
+### 26.03.03 - 28
+I focused on the sprint review and checked some PRs. I made small progress on my ticket.
+I encountered an issue related to a branch conflict, but I managed to resolve it.
+Today, I had a meeting with Lewis were i made some notes and updated LO1 document
