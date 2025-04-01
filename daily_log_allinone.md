@@ -265,3 +265,5 @@ I focused on preparing for the business competition
 I focused on the sprint review and checked some PRs. I made small progress on my ticket.
 I encountered an issue related to a branch conflict, but I managed to resolve it.
 Today, I had a meeting with Lewis were i made some notes and updated LO1 document
+### 31.03.2025
+I’ve been working on my tickets, and afterward, I had a discussion with Charles about the missing evidence in my portfolio.
