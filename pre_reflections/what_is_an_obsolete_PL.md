@@ -1,11 +1,11 @@
 # Technical
 LO4.11.2.5
 Enterprise transformation
-### Assess existing legacy software, and review the source code if available, appreciating that part or all of the system may be implemented using an obsolete programming language.
 ### Take a look in the https://archive.org/details/software.
 ### Other things you can do is the master the mainframe - think COBOL, REXX - is there such a thing as an obsolete programming language?
 ### What does actually mean do you think?
 ### Make sure you provide justification through academic literature that looks at historic trends in languages and also think about the impact of legacy software in terms of security, usability, accessibility etc.
+# Assess existing legacy software, and review the source code if available, appreciating that part or all of the system may be implemented using an obsolete programming language.
 
 
 In software development, things are always evolving. I am 37 years old and I have observed the lifecycle of several programming languages. I never worked with COBOL or FORTRAN, but I knew that once they were pillars in business and scientific computing. Now, they are mostly used in old, outdated systems. Turbo Pascal, which was my first programming language, played a significant role in computer science education. Today, Python and Java are more dominant. Even Objective-C, which not long ago was used to make iPhone apps, has been largely replaced by Swift. It's important for professionals to keep track of new developments and regularly update their skills. Staying informed about the latest technological trends helps ensure one remains effective and valuable in this fast-changing field. New languages that work better, have more features, and are easier to use will always replace older ones. Looking at this trend, I can see that being able to adapt and learn new technologies is really important for developers today. (Meyerovich & Rabkin, 2013)
