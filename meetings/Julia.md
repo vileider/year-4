@@ -9,7 +9,7 @@
 - Recordings?
 
 # 4 Security: Apply recognized principles to the building of high-quality software components, analyzing the difference between safety and quality, and show how mechanisms that improve quality may be used to partially underpin a safety argument. You may have investigated this as part of your own projects; if so, please provide a description of what you did and how you did it. If not, please provide some evidence of your understanding of the industry benchmarks, e.g., ISO 27001 or other relevant methodologies.
-- How to refer to this? A reflection?
+- How to reffer to this? A reflection?
 
 # 5 Technical: Confidently design and apply algorithms for manipulating data in programming solutions for a variety of problems. This can be evidenced through project work – you may have taken part in a project that utilizes algorithms in this way; if so, please provide evidence. If not, you can refer to prior work experience or provide a written piece explaining your understanding of the practice.
 - Link to code?
