@@ -4,3 +4,7 @@ I want to improve overall coding standards or onboard someone, it shows leadersh
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/Entity_dicussion.png
 As team lead, I initiated and guided a discussion about designing reusable input systems. I listened to objections, adapted proposals based on team feedback, and reached a shared technical direction — supporting team cohesion and iterative improvement
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/singletone_discussion.png
+I participated in a design dialogue where a teammate questioned our use of the Singleton pattern. I explained an alternative (Mediator) with practical examples, like managing resolution settings and player difficulty. I encouraged discussion and left space for team suggestions.

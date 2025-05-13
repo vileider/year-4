@@ -11,3 +11,7 @@ Mentions unit testing, Unity tools, optimization, deployment—all tech-heavy to
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/Entity_dicussion.png
 We were exploring an input system where control can be passed between entities. I proposed splitting inputs into granular components (e.g., WASD) for flexible reuse. This design choice supports long-term maintainability and future features like multi-entity control or player switching.
+###
+
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/singletone_discussion.png
+We were deciding how to manage global game state (e.g., resolution, difficulty). I recommended using a Mediator pattern instead of relying on multiple Singleton instances. This helped reduce dependency chains and make components (e.g., camera, factory) more modular.
