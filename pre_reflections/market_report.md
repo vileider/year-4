@@ -86,68 +86,41 @@ If our game achieves breakout success, as some farming sims have, lifetime profi
 ### target audience:
 # https://www.gamingbible.com/features/stardew-valley-step-aside-375062-20240808
 The target audience for a farming tycoon RPG game is typically 18-35 years old, with a fairly balanced gender distribution, though casual farming games tend to attract slightly more female players. The audience ranges from casual to mid-core gamers, who enjoy relaxing yet engaging gameplay with RPG elements and light management systems. Interests include farming, economic simulation, and RPG-style progression with quests and customization options. These players seek a blend of strategic depth and cozy, low-pressure environments, ideal for a game that combines both farming and business simulation
-# done -Determine the market size for farming simulation and tycoon games
-# - done Identify player preferences in this genre
-# - done Assess the competition and market saturation
-# - Evaluate potential revenue and profitability
-# - Identify the target audience:
-# Age range of typical players (e.g., 18-35)
-# Gender distribution
-# Gaming habits (casual vs. hardcore)
-# Interests (farming, management, RPG elements)
 
-Choose appropriate research methods:
+## Chosen Research Methods:
+Surveys of Potential Players:Creating short, targeted surveys (Google Forms) to gauge interest in features like multiplayer, tycoon depth, and art style preferences.
+Steam & Platform Stats: Use SteamSpy and SteamCharts to analyze player behavior, active user counts, and pricing models for similar games (Stardew Valley, Farming Simulator, My Time at Portia).
+Competitor Reviews & Feedback: Analyze Steam reviews and Reddit discussions to see what features players praise or dislike in games like Harvest Moon and Farming Simulator.
+Industry Reports: Use sources like Statista, EconMarketResearch, and Crunchbase to validate market growth, genre trends, and platform usage patterns.
 
-Surveys of potential players
-Analysis of Steam and other platform statistics
-Competitor game reviews and player feedback
-Industry reports on indie game market trends
+### Tools:
+Survey Tools: Google Forms or SurveyMonkey for gathering player feedback pre-dev and post-launch.
+SteamSpy: For competitor stats like average playtime, player retention, and estimated revenue.
+Social Listening: Monitor Twitter, Reddit, and Steam forums using keyword tracking (e.g., “co-op farming game”).
+Unity Analytics: Use Unity’s built-in data tracking to optimize gameplay loops and detect drop-off points.
 
+### Quantitative Data:
+Global farming sim market projected to grow from $378M (2023) to $982M (2032).
+Indie game market valued at $1.5B in 2023, growing steadily.
+Games blending RPG and sim genres consistently perform well with 100K–1M copies sold on Steam.
+### Qualitative Data:
+Players value freedom, progression, and narrative immersion.
+Multiplayer and tycoon depth are often-requested features in community discussions.
+Competitor analysis reveals that weak economic systems or shallow questing are common criticisms.
 
-Use suitable tools:
+### Interpretation
+Market Opportunity: There’s room for innovation in farming sims with deeper tycoon elements and engaging multiplayer features.
+Key Features to Include: Strategic market management, player co-op, character progression, and light storytelling.
+Pricing Strategy: Based on competitors, an initial price of $14.99–19.99 with DLC/expansions over time is viable.
+Potential Risks: Visibility in a crowded market and development costs for multiplayer or economic systems.
 
-SurveyMonkey or Google Forms for player surveys
-SteamSpy for Steam game statistics
-Social media listening tools for community sentiment
-Unity's own reports for engine usage data
+### Strategic Decisions
+Concept Refinement: Focus on creating a layered economic system and optional multiplayer with quest-based RPG depth.
+Budget Planning: Small dev team using Unity and low-poly assets can minimize costs.
+Marketing: Begin community building early with devlogs, Steam wishlists, and Discord engagement.
+Revenue Goals: Target 200K+ units sold within 2 years post-launch with continued monetization via updates or expansions.
 
-
-Collect and analyze data:
-
-Gather quantitative data on market size and revenue
-Collect qualitative data on player preferences
-Analyze competitor strengths and weaknesses
-Examine trends in game features and monetization
-
-
-Interpret findings:
-
-Synthesize data to understand market opportunities
-Identify key features players value most
-Determine optimal pricing strategy
-Assess potential challenges in development and marketing
-
-
-Identify opportunities and challenges:
-
-Opportunities: Underserved niches, popular features to incorporate
-Challenges: Market saturation, development costs, marketing in a crowded space
-
-
-Make informed decisions:
-
-Refine game concept based on research
-Determine development timeline and budget
-Plan marketing strategy
-Set realistic revenue goals
-
-
-Continuously monitor and adapt:
-
-Plan for ongoing community feedback during development
-Set up metrics to track post-launch performance
-Prepare for potential pivots based on player reception
-
-
-
-By following these steps, you'll create a comprehensive market research report that will guide your game development and marketing strategies effectively.
+### Continuous Feedback Loop
+Community Feedback: Early-access or public beta testing will shape balancing and content priorities.
+Post-Launch Metrics: Use Unity analytics + Steam stats to track player engagement, churn rate, and feature usage.
+Iterative Development: Prepare to adjust roadmap depending on community feedback (e.g., delay multiplayer to polish core loop).
