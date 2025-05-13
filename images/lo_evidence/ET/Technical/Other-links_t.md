@@ -9,3 +9,5 @@ Heavy on dev methodology (code efficiency, testing, version control, architectur
 Mentions unit testing, Unity tools, optimization, deployment—all tech-heavy topics.
 
 ###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/Entity_dicussion.png
+We were exploring an input system where control can be passed between entities. I proposed splitting inputs into granular components (e.g., WASD) for flexible reuse. This design choice supports long-term maintainability and future features like multi-entity control or player switching.
