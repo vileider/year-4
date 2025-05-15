@@ -27,3 +27,7 @@ I addressed an issue in the dev branch by releasing a quick patch. To ensure eve
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Technical/troublshooting_repository_errors.png
 I reviewed a teammate’s pull request and identified issues with tuple declarations and dependency conflicts in Unity. After a teammate’s fix caused problems, I created a new branch from dev and resolved the issues. We also discussed IDE and tooling configurations to improve support for C#. This demonstrates my ability to identify and correct code quality issues, manage technical dependencies, and use appropriate tools for efficient debugging.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Technical/UML_uml_fix_suggestion.png
+I designed and shared a UML class diagram showing the structure of our WorldLoader system, which includes MeshGenerator and ItemPlacer. I explained how the system loads and deserializes WorldData and uses that to generate in-game terrain and objects. I also iterated on the diagram based on peer feedback, correcting directional relationships. This demonstrates my ability to plan and communicate modular architecture and handle serialized data structures.

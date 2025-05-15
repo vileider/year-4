@@ -23,3 +23,7 @@ I organized and communicated our 2-week sprint schedule, including daily standup
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Meta-skills/Asiging_to_task.png
 I helped manage our Agile development board, where tasks were organized under Developing, Testing, and Done. I promoted shared accountability by encouraging teammates to assign tasks to themselves, ensuring progress stayed visible. This supported our sprint workflow by enabling asynchronous collaboration and reducing blockers. It demonstrates Agile planning and coordination, using a live tool to communicate task status and ownership across the team.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Technical/UML_uml_fix_suggestion.png
+As part of planning for a major gameplay feature, I shared a UML diagram with the team to visualize the architecture. This allowed for async feedback, including corrections to dependencies. Sharing early and incorporating suggestions supported our Agile practice of collaborative planning and continuous iteration.
