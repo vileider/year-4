@@ -21,3 +21,7 @@ In retrospectives, we often reviewed feedback from testers and stakeholders and 
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Security/project_continuity_.png
 When three developers became unavailable — two due to inactivity and one due to personal circumstances — I stepped in to take over their tasks and communicated the changes. This action helped prevent disruption to the sprint and reflects my understanding of business continuity planning, particularly in managing unplanned personnel loss and maintaining project delivery.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/business/changing_workflow_framework.png
+I aligned our project workflow with available team capacity by switching from fixed sprints to Kanban. This ensured we could still deliver value consistently despite staffing challenges. By adapting our method, I helped the team stay productive, reduce unfinished work, and maintain a regular flow of deliverables — supporting long-term project viability.
