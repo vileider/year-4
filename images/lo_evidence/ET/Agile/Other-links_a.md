@@ -19,3 +19,7 @@ Our retrospectives served as a lightweight RAID log. Each session captured risks
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Meta-skills/A_criteria_aded.png
 I organized and communicated our 2-week sprint schedule, including daily standups and biweekly planning/retros. We introduced async updates for better flexibility and ensured all backlog items had clear Acceptance Criteria. This helped reduce miscommunication and ensured clarity in deliverables.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Meta-skills/Asiging_to_task.png
+I helped manage our Agile development board, where tasks were organized under Developing, Testing, and Done. I promoted shared accountability by encouraging teammates to assign tasks to themselves, ensuring progress stayed visible. This supported our sprint workflow by enabling asynchronous collaboration and reducing blockers. It demonstrates Agile planning and coordination, using a live tool to communicate task status and ownership across the team.

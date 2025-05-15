@@ -16,3 +16,8 @@ We used a retrospective board throughout our project to reflect on what went wel
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Meta-skills/A_criteria_aded.png
 I adapted team communication strategies based on feedback, shifting some meetings to async updates to accommodate availability. I also made sure team members who missed meetings received summaries or recordings, improving engagement and performance across the team.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Meta-skills/Asiging_to_task.png
+We used our task board as a continuous performance tool. By reviewing movement across the board during retrospectives and meetings, we were able to assess sprint velocity, individual progress, and where bottlenecks occurred. I guided others on using the board to promote accountability.
+The board itself is a tool for self and peer accountability. Reviewing board movement is a form of performance feedback.
