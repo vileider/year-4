@@ -14,3 +14,6 @@ Report is an evidence for busines outcome because it focuses on:
 - Revenue forecasts
  -Product/market fit insights
  ###
+
+ https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/retorspectivves.png
+ In retrospectives, we often reviewed feedback from testers and stakeholders and used this to align with project goals and scope. For example, when we noted that a level felt too short or unclear, we adjusted pacing to better meet the player's experience expectations, adding value to our game.

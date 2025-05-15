@@ -8,3 +8,7 @@ As team lead, I initiated and guided a discussion about designing reusable input
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/singletone_discussion.png
 I participated in a design dialogue where a teammate questioned our use of the Singleton pattern. I explained an alternative (Mediator) with practical examples, like managing resolution settings and player difficulty. I encouraged discussion and left space for team suggestions.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Agile/retorspectivves.png
+We used a retrospective board throughout our project to reflect on what went well, what went wrong, and what we could improve. I helped facilitate or contribute to these sessions by evaluating our teamwork, communication, and planning. It acted as an ongoing 360° feedback loop that influenced our workflow and role distribution.
