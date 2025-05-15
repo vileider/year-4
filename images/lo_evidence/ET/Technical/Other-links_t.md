@@ -23,3 +23,7 @@ We introduced a rule to include Acceptance Criteria in every ticket, improving c
 
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Security/versioning_issue.png
 I addressed an issue in the dev branch by releasing a quick patch. To ensure everyone was working from a clean base, I shared Git commands with the team for rebasing their branches. This demonstrates my ability to assess and correct issues in shared source code, and provide technical guidance to maintain workflow stability.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Technical/troublshooting_repository_errors.png
+I reviewed a teammate’s pull request and identified issues with tuple declarations and dependency conflicts in Unity. After a teammate’s fix caused problems, I created a new branch from dev and resolved the issues. We also discussed IDE and tooling configurations to improve support for C#. This demonstrates my ability to identify and correct code quality issues, manage technical dependencies, and use appropriate tools for efficient debugging.

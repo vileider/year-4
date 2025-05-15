@@ -21,3 +21,7 @@ I adapted team communication strategies based on feedback, shifting some meeting
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Meta-skills/Asiging_to_task.png
 We used our task board as a continuous performance tool. By reviewing movement across the board during retrospectives and meetings, we were able to assess sprint velocity, individual progress, and where bottlenecks occurred. I guided others on using the board to promote accountability.
 The board itself is a tool for self and peer accountability. Reviewing board movement is a form of performance feedback.
+###
+
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Technical/troublshooting_repository_errors.png
+In this thread, I collaborated with teammates on fixing a pull request error and shared context on tool usage (C# Dev Kit, Visual Studio Code). I encouraged reflection on why mistakes occurred and promoted better review habits. This shows my ability to foster a feedback culture, guide peers, and reinforce accountability in team workflows.
