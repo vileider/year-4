@@ -31,3 +31,7 @@ I reviewed a teammate’s pull request and identified issues with tuple declarat
 ###
 https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Technical/UML_uml_fix_suggestion.png
 I designed and shared a UML class diagram showing the structure of our WorldLoader system, which includes MeshGenerator and ItemPlacer. I explained how the system loads and deserializes WorldData and uses that to generate in-game terrain and objects. I also iterated on the diagram based on peer feedback, correcting directional relationships. This demonstrates my ability to plan and communicate modular architecture and handle serialized data structures.
+
+###
+https://github.com/vileider/year-4/blob/main/images/lo_evidence/ET/Technical/branches.png
+This Git branch overview demonstrates my structured use of source control during development. I created and maintained multiple branches linked to individual task IDs, each with its own pull request. This practice ensured that features and fixes were developed in isolation, then reviewed and merged cleanly. It reflects my ability to manage a scalable and maintainable codebase using best practices in version control.
